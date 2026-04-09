@@ -12,7 +12,7 @@ export default function Logo({ className = '', variant = 'dark', onClick }) {
         <span className={`font-serif text-[18px] font-bold ${
           isLight ? 'text-[#7A1315]' : 'text-[#CE9F51]'
         }`}>
-          SG
+          TS
         </span>
       </div>
       
@@ -21,12 +21,12 @@ export default function Logo({ className = '', variant = 'dark', onClick }) {
         <span className={`font-serif text-[22px] font-bold leading-[1.1] ${
           isLight ? 'text-white' : 'text-[#7A1315]'
         }`}>
-          Shiv Gauri
+          TrueSaree
         </span>
         <span className={`text-[9px] font-bold tracking-[0.2em] uppercase ${
           isLight ? 'text-white/80' : 'text-[#CE9F51]'
         }`}>
-          SAREE
+          WHOLESALE
         </span>
       </div>
     </Link>
